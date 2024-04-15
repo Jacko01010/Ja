@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head> 
+<style>
+        body {
+            background-color: #006400; /* Change this to your preferred color */
+        }
+        
+        h1 {
+            color: lime 
+        }
+        
+        h2 {
+            color: lime
+        }    
+        h3 { 
+            color: lime
+        }
+        
+        Send {
+            color lime
+        }    
+            
+            
+    </style>
+</head>
+<body> 
+<main>
+<h1> HELLO </h1>
+<img src="https://preview.redd.it/m4r7p5k99yt81.png?auto=webp&s=82932526b051ab9a61b71f7f95afbe4a655c9ba5" alt="Shrek meme">
+<section>
+<h2>GET OUT OF MY SWAMP</h2>
+<h3>What say thee</h3>
+<div style="display: flex;">
+        <div>
+            <form action="https://formspree.io/f/xwkgwdka" method="POST">
+<form action="https://formspree.io/f/{your_unique_id}" method="POST">
+  <label for="email">Your Email:</label><br>
+  <input type="email" id="email" name="_replyto"><br>
+  <label for="message">Your Message:</label><br>
+  <textarea id="message" name="message"></textarea><br>
+  <input type="submit" value="Send">
+</form>
+        
+        </div>
+        <div style="margin-left:40px">
+            <img src="https://i.imgflip.com/6amzee.gif" alt="Your GIF">
+        </div>
+    </div>
+
+
+</section>
+</main>
+</body>
+</html>
